@@ -6,6 +6,8 @@
 
 #### 依赖
 
+- `composer update`
+
 - `pecl install protobuf-{VERSION}`
 
 - `pecl install grpc`
