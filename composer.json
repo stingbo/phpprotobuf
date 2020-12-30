@@ -1,5 +1,4 @@
 {
-    "name": "phpprotobuf",
     "require": {
         "google/protobuf": "^3.14",
         "grpc/grpc": "^1.34"
